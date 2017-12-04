@@ -25,5 +25,5 @@ public class Animal {
 	public void shit() {
 		System.out.println("Poop.....");
 	}
-		
+	
 }
